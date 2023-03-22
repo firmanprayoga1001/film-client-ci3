@@ -1,0 +1,11 @@
+`<div class="col-md-2 col-4 mb-3">
+<a href="#" class="text-dark">
+<div class="card">
+<img src="http://localhost/rest_film/assets/gambar/thumbnail/` + data.gambar + `" class="card-img-top" alt="Film Poster">
+</div>
+<div class="text-center">
+<h6 class="card-title">`+ data.judul_video +`</h6>
+<h6 class="card-subtitle mb-2 text-muted">`+ data.tahun +`</h6>
+</div>
+</a>
+</div>`
